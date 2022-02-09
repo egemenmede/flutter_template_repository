@@ -1,0 +1,1 @@
+const String kMaterialAppTitle = 'Flutter Clean Architecture Title';
