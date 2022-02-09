@@ -16,11 +16,11 @@ Flutter app the core folder structure
 │   	│   ├── usecase         # 
 │   	│   ├── utils           # 
 │   	│   └── ...             # etc.
-│   	├── data             	  # All data files/folders
+│   	├── data                # All data files/folders
 │   	│   ├── datasources     # 
 │   	│   ├── models          # 
 │   	│   └── repositories    # 
-│   	├── domain            	# All domain files/folders
+│   	├── domain              # All domain files/folders
 │   	│   ├── entities        # 
 │   	│   ├── repositories    # 
 │   	│   └── usecases        # 
