@@ -6,12 +6,28 @@ A new Flutter project.
 Flutter app the core folder structure
 
 ```
-flutter-app/
-|- lib
-	|- src
-		|- core
-		|- data
-		|- domain
-		|- presentation
-		|- main.dart
+├── ...
+├── lib                     	# Flutter project root
+│   └── src                     # Source of project
+│   	├── core              	# Project core functionalities
+│   	│   ├── animation       # 
+│   	│   ├── routes          # 
+│   	│   ├── themes          # 
+│   	│   ├── usecase         # 
+│   	│   ├── utils           # 
+│       │   └── ...             # etc.
+│   	├── data             	# All data files/folders
+│   	│   ├── datasources     # 
+│   	│   ├── models          # 
+│   	│   └── repositories    # 
+│   	├── domain            	# All domain files/folders
+│   	│   ├── entities        # 
+│   	│   ├── repositories    # 
+│   	│   └── usecases        # 
+│   	├── presentation        # All presentation files/folders
+│   	│   ├── blocs           # 
+│   	│   ├── views           # 
+│   	│   └── widgets         # 
+│       └── ...                 # etc.
+└── ...
 ```
