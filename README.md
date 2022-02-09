@@ -9,7 +9,7 @@ Flutter app the core folder structure
 flutter-app/
 |- lib
 	|- src
-	    |- core
+		|- core
 		|- data
 		|- domain
 		|- presentation
