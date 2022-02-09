@@ -15,8 +15,8 @@ Flutter app the core folder structure
 │   	│   ├── themes          # 
 │   	│   ├── usecase         # 
 │   	│   ├── utils           # 
-│       │   └── ...             # etc.
-│   	├── data             	# All data files/folders
+│   	│   └── ...             # etc.
+│   	├── data             	  # All data files/folders
 │   	│   ├── datasources     # 
 │   	│   ├── models          # 
 │   	│   └── repositories    # 
@@ -28,6 +28,7 @@ Flutter app the core folder structure
 │   	│   ├── blocs           # 
 │   	│   ├── views           # 
 │   	│   └── widgets         # 
-│       └── ...                 # etc.
+│   	├── main.dart           # Start point
+│   	└── ...                 # etc.
 └── ...
 ```
