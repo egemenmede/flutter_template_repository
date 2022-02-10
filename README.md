@@ -8,7 +8,7 @@ Flutter app the core folder structure
 ```
 ├── ...
 ├── lib                     	# Flutter project root
-│   └── src                     # Source of project
+│   └── src                 	# Source of project
 │   	├── core              	# Project core functionalities
 │   	│   ├── animation       # 
 │   	│   ├── routes          # 
