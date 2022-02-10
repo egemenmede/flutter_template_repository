@@ -1,6 +1,10 @@
-# flutter_template_repository
+# Flutter Template Repository
 
-A new Flutter project.
+A Flutter Template Repository project.
+
+## Features of Template Repository
+
+- TODO
 
 ### Folder Structure
 Flutter app the core folder structure
