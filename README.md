@@ -16,7 +16,7 @@ A Flutter Template Repository project.
 - etc. (TODO)
 
 ### Folder Structure
-Flutter app the core folder structure
+Flutter app core folder structure
 
 ```
 ├── ...
