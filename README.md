@@ -4,8 +4,8 @@ A Flutter Template Repository project.
 
 ## Features of Template Repository
 
-- Clean Architecture
-- State Management
+- Clean Architecture ([See Uncle Bob Martin](http://cleancoder.com/))
+- State Management ([BloC](https://bloclibrary.dev/) - It is recommended approach by Google Developers)
 - Etc.
 
 ### Libraries Used
