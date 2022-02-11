@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'src/core/utils/contants.dart';
+import 'app/core/utils/contants.dart';
 
 void main() {
   runApp(const MyApp());
