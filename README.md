@@ -6,14 +6,14 @@ A Flutter Template Repository project.
 
 - Clean Architecture ([See Uncle Bob Martin](http://cleancoder.com/))
 - State Management ([BloC](https://bloclibrary.dev/) - It is recommended approach by Google Developers)
-- Etc.
+- etc. (TODO)
 
 ### Libraries Used
 
 - [retrofit](https://pub.dev/packages/retrofit)
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [equatable](https://pub.dev/packages/equatable)
-- etc.
+- etc. (TODO)
 
 ### Folder Structure
 Flutter app the core folder structure
