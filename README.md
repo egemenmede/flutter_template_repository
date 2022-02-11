@@ -5,6 +5,7 @@ A Flutter Template Repository project.
 ## Features of Template Repository
 
 - Clean Architecture
+- State Management
 - Etc.
 
 ### Libraries Used
