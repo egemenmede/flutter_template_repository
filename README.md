@@ -8,7 +8,7 @@ A Flutter Template Repository project.
 - State Management ([BloC](https://bloclibrary.dev/) - Recommended by Google Developers)
 - etc. (TODO)
 
-### Libraries Used
+### Packages Used
 
 - [retrofit](https://pub.dev/packages/retrofit)
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
