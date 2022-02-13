@@ -18,7 +18,8 @@ A Flutter Template Repository project.
 ### Layers Used
 
 - Core Layer
-  - It is the layer that belongs to the basic components to be used in the application. You can view the "Folder Structure" title for details. animation, routes, themes etc.
+
+  It is the layer that belongs to the basic components to be used in the application. You can view the "Folder Structure" title for details. animation, routes, themes etc.
 
 - Data Layer
 
