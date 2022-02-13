@@ -36,7 +36,7 @@ A Flutter Template Repository project.
   - entities: The "repositories" under the Domain layer contain the entities of the rules set with the abstract methods. These entities will also be used by extending to the creation of models under the Data layer. (See TODO)
   - repositories: Rest API/GraphQL etc. abstract methods. (See TODO)
     - [Naming conventions](https://developer.android.com/jetpack/guide/data-layer#naming-conventions)
-  - usecases: TODO (See TODO)
+  - usecases: The application is the area where business rules are identified. (See TODO)
     - [Naming conventions](https://developer.android.com/jetpack/guide/domain-layer#conventions)
 
 - Presenatation Layer
