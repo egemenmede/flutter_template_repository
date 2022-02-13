@@ -28,7 +28,7 @@ A Flutter Template Repository project.
   - datasources: The data sources to receive or store the application data. (See TODO)
     - [Naming conventions](https://developer.android.com/jetpack/guide/data-layer#naming-conventions)
   - models: Models should be a subclass of the relevant entity (domain layer). (With fromJson) (See TODO)
-  - respositories: TODO (See TODO)
+  - respositories: Contains the Repository Implementations of the data layer. (See TODO)
 
 - Domain Layer: 
 
