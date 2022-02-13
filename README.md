@@ -40,6 +40,9 @@ A Flutter Template Repository project.
     - [Naming conventions](https://developer.android.com/jetpack/guide/domain-layer#conventions)
 
 - Presenatation Layer
+
+  Presentation Layer contains UI that is coordinated by Presenters which execute one or multiple Use cases. Presentation Layer depends on Domain Layer.
+
   - blocs: TODO (See TODO)
   - views: TODO (See TODO)
   - widgets: TODO (See TODO)
