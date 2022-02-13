@@ -15,6 +15,14 @@ A Flutter Template Repository project.
 - [equatable](https://pub.dev/packages/equatable)
 - etc. (TODO)
 
+### Layers Used
+
+- Core Layer
+  - It is the layer that belongs to the basic components to be used in the application. You can view the "folder structure" title for details. animation, routes, themes etc.
+- Data Layer
+- Domain Layer
+- Presenatation Layer
+
 ### Folder Structure
 Flutter app core folder structure
 
