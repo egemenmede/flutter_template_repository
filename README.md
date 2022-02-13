@@ -24,7 +24,7 @@ A Flutter Template Repository project.
 
   Data Layer contains Repository Implementations (repositories) and multiple "datasources" (local, remote etc.). Repositories are responsible to coordinate data from the different Data Sources. Data Layer depends on Domain Layer.
 
-  - datasources: TODO (See TODO)
+  - datasources: The data sources to receive or store the application data. (See TODO)
     - [Naming conventions](https://developer.android.com/jetpack/guide/data-layer#naming-conventions)
   - models: Models should be a subclass of the relevant entity (domain layer). (With fromJson) (See TODO)
   - respositories: TODO (See TODO)
