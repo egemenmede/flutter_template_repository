@@ -20,17 +20,17 @@ A Flutter Template Repository project.
 - Core Layer
   - It is the layer that belongs to the basic components to be used in the application. You can view the "Folder Structure" title for details. animation, routes, themes etc.
 - Data Layer
-  - datasources: TODO
-  - models: TODO
-  - respositories: TODO
+  - datasources: TODO (See TODO)
+  - models: TODO (See TODO)
+  - respositories: TODO (See TODO)
 - Domain Layer
-  - entities: TODO
-  - repositories: Rest API/GraphQL etc. abstract methods.
-  - usecases: TODO
+  - entities: TODO (See TODO)
+  - repositories: Rest API/GraphQL etc. abstract methods. (See TODO)
+  - usecases: TODO (See TODO)
 - Presenatation Layer
-  - blocs: TODO
-  - views: TODO
-  - widgets: TODO
+  - blocs: TODO (See TODO)
+  - views: TODO (See TODO)
+  - widgets: TODO (See TODO)
 
 ### Folder Structure
 Flutter app core folder structure
