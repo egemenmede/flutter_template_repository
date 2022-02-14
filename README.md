@@ -35,6 +35,7 @@ A Flutter Template Repository project.
   The basic area of Clean Architecture and Domain-Driven Design is Domain Layer. All Business and Application Rules are determined here. There are no concrete classes because of the layer that determines the rules. In this way, they work independently of infrastructure and Frameworks. Because the domain layer is responsible for encapsulation of the business logic, it is particularly used to remove complexity and support reusability. No dependencies with other layers.
   
   - entities: The "repositories" under the Domain layer contain the entities of the rules set with the abstract methods. These entities will also be used by extending to the creation of models under the Data layer. (Without fromJson) (See TODO)
+    - Naming conventions: Names should be in UpperCamelCase 
   - repositories: Rest API/GraphQL etc. abstract methods. (See TODO)
     - [Naming conventions](https://developer.android.com/jetpack/guide/data-layer#naming-conventions)
   - usecases: The application is the area where business rules are identified. (See TODO)
