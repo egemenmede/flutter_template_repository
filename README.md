@@ -49,6 +49,20 @@ A Flutter Template Repository project.
   - views: TODO (See TODO)
   - widgets: TODO (See TODO)
 
+### File Templates
+
+- Entity File Template (domain>entities>..)
+
+```
+class Entity {
+  final String? value;
+
+  const Entity({
+    this.value,
+  });
+}
+```
+
 ### Folder Structure
 Flutter app core folder structure
 
