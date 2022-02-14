@@ -51,7 +51,7 @@ A Flutter Template Repository project.
 
 ### File Templates
 
-- Entity File Template (domain>entities>..)
+- Entity File Template (domain>entities>..) [Example File](https://github.com/egemenmede/flutter_template_repository/blob/main/lib/app/domain/entities/entity.dart)
 
 ```
 class Entity {
