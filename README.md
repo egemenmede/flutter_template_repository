@@ -49,17 +49,27 @@ A Flutter Template Repository project.
   - views: TODO (See TODO)
   - widgets: TODO (See TODO)
 
-### File Templates
+### File Templates for Domain Layer
 
 - Entity File Template (domain>entities>..) [Example File](https://github.com/egemenmede/flutter_template_repository/blob/main/lib/app/domain/entities/entity.dart)
 
-```
+```dart
 class Entity {
   final String? value;
 
   const Entity({
     this.value,
   });
+}
+```
+
+- Repository File Template (domain>repositories>..) [Example File](https://github.com/egemenmede/flutter_template_repository/blob/main/lib/app/domain/repositories/repo_name_repository.dart)
+
+```dart
+abstract class RepoNameRepository {
+  //Future<ModelName> getModelData(String value);
+  Future<String> getData(String value);
+  Future<bool> getStatus(String check);
 }
 ```
 
