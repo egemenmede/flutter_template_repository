@@ -5,7 +5,7 @@ A Flutter Template Repository project.
 ## Features of Template Repository
 
 - Clean Architecture ([See Uncle Bob Martin](http://cleancoder.com/))
-- State Management ([BLoC](https://bloclibrary.dev/) - Recommended by Google Developers)
+- State Management ([BLoC](https://bloclibrary.dev/) - Recommended by Google Developers) (BLoC (Business Logic Component) is a state management pattern used in Flutter to separate the presentation layer from the business logic.)
 - etc. (TODO)
 
 ### Packages Used
