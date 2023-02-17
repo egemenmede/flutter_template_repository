@@ -10,7 +10,6 @@ A Flutter Template Repository project.
 
 ### Packages Used
 
-- [retrofit](https://pub.dev/packages/retrofit)
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [equatable](https://pub.dev/packages/equatable)
 - etc. (TODO)
